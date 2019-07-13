@@ -1,2 +1,4 @@
 rasterio
 matplotlib
+merge
+show
